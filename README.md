@@ -10,8 +10,6 @@ Check out a [live demo](https://nextjs-animated-slider.vercel.app/).
 
 ## 📦 Installation
 
-### ⌨️ Requirements
-
 To go with the latest version please copy and past in your terminal the following steps: 
 
 ```bash
