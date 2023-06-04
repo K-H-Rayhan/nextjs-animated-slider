@@ -8,13 +8,14 @@ Stunning animated slider website built using Next.js, Framer Motion, and Tailwin
 
 Check out a [live demo](https://nextjs-animated-slider.vercel.app/).
 
-## ⌨️ Requirements
+## 📦 Installation
+
+### ⌨️ Requirements
 
 - [Node.js](https://nodejs.org/en/) version _>=16.0.0_
 - [yarn](https://yarnpkg.com/)
 - [git](https://git-scm.com/)
 
-## 📦 Installation
 
 To go with the latest version please copy and past in your terminal the following steps: 
 
