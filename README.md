@@ -4,7 +4,7 @@ Stunning animated slider website built using Next.js, Framer Motion, and Tailwin
 
 ## Demo
 
-![Nextjs Animated Slider Preview](https://github.com/K-H-Rayhan/trexui/assets/83538046/41944317-5ade-40ab-888e-ce0209d7261e)
+![Nextjs Animated Slider Preview](https://github-production-user-asset-6210df.s3.amazonaws.com/83538046/243174719-676e87e0-0988-4431-9c3d-354635faca93.gif)
 
 ## Getting Started
 
