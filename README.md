@@ -25,7 +25,7 @@ yarn dev
 # or
 pnpm dev
 ```
-Run the development server:
+Run the production server:
 
 ```bash
 npm run build && npm run start
