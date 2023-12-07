@@ -11,7 +11,7 @@ Check out a [live demo](https://nextjs-animated-slider.vercel.app/).
 ## 📦 Installation
 
 To go with the latest version please copy and past in your terminal the following steps: 
-
+⚠️❗ <b>Take into ocnsideration I'm working on Node version 18.17.1 </b>
 ```bash
 git clone https://github.com/K-H-Rayhan/nextjs-animated-slider.git
 ```
