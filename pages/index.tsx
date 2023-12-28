@@ -42,6 +42,7 @@ export default function Home() {
     >
       <AnimatePresence>
         <BackgroundImage
+          key={currentSlideData.index}
           transitionData={transitionData}
           currentSlideData={currentSlideData}
         />
