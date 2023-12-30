@@ -78,38 +78,38 @@ export default function Home() {
 const sliderData = [
   {
     img: "/1.png",
-    location: "Switzrerland Apls",
+    title: "Assassin's Creed Temasek",
     description:
-      "The journey to Machu Picchu typically starts in the mountain city of Cusco, which was the capital city of the Inca Empire",
-    title: "SAINT ANTÖNEN",
+      "Navigate the bustling trade and political intrigues of ancient Singapore, where every street and alley tells a story of empires.",
+      location: "Singapore",
   },
   {
     img: "/2.png",
-    title: "The Grand Canyon",
+    title: "Assassin's Creed Ledang",
     description:
-      "The earth's geological history opens before your eyes in a mile-deep chasm",
-    location: "Arizona",
+      "Uncover the mystical secrets of Mount Ledang, where legends whisper and hidden treasures await in the heart of Johor.",
+    location: "Johor",
   },
   {
     img: "/3.png",
-    title: "Masai Mara",
+    title: "Assassin's Creed Nusantara",
     description:
-      "Wild animals in their natural environment, luxury safari lodges",
-    location: "Kenya",
+      "Embark on a maritime adventure across the diverse islands of Nusantara, from the courts of sultans to the untamed frontiers of Palembang.",
+    location: "Palembang",
   },
   {
     img: "/4.png",
-    title: "Angkor Wat",
+    title: "Assassin's Creed Borneo",
     description:
-      "A stunning ancient jungle city with hundreds of intricately constructed temples",
-    location: "Cambodia",
+      "Delve into the heart of Borneo's untamed rainforests, where ancient traditions clash with colonial conquests in the shadows of Sabah.",
+    location: "Sabah",
   },
   {
     img: "/7.png",
-    title: "Bali",
+    title: "Assassin's Creed Keris",
     description:
-      "Tropical beaches, volcano hikes, ancient temples, and friendly people",
-    location: "Indonesia",
+      "Explore the cultural heritage of Malacca, a melting pot of civilizations, all vying for control of the legendary Keris.",
+    location: "Malacca",
   },
 ];
 

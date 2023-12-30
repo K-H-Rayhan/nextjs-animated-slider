@@ -41,9 +41,9 @@ export default Header;
 
 const menus = [
   "Home",
-  "Holdidays",
-  "Destinations",
-  "Flights",
-  "Offers",
+  "Upcoming Projects",
+  "Missions",
+  "merchandise",
+  "Join the team",
   "Contacts",
 ];
