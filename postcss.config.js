@@ -1,16 +1,9 @@
-// tailwind.config.js
+// postcss.config.js
 
 module.exports = {
-  theme: {
-    extend: {
-      // Define your colors, fonts, etc., here
-      fontFamily: {
-        sans: ['Your Custom Font', 'sans-serif'],
-      },
-      colors: {
-        'custom-blue': '#yourCustomColor',
-        // more colors...
-      },
-    },
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+    // ...other PostCSS plugins you might want to use
   },
 };
