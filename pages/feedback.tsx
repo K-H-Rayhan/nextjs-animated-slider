@@ -9,10 +9,10 @@ const Feedback = () => {
     const [message, setMessage] = useState('');
     const [isSubmitting, setIsSubmitting] = useState(false);
 
-    const handleSubmit = async (event) => {
+    const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
         event.preventDefault();
         setIsSubmitting(true);
-        
+    
         // Simulate an API call
         setTimeout(() => {
             console.log({ name, email, message });
@@ -20,9 +20,8 @@ const Feedback = () => {
             setName('');
             setEmail('');
             setMessage('');
-            // You'd also want to set some state to show a success message here
         }, 2000);
-    };
+    };    
 
     return (
         <>
