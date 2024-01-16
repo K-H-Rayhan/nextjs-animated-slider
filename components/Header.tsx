@@ -53,7 +53,7 @@ export default Header;
 const menus = [
   "Home",
   "Feedback",
-  "Missions",
+  "Storyline",
   "Merchandise",
   "Join the team",
   "Contacts",
